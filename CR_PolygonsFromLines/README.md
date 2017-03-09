@@ -13,6 +13,7 @@ Usage:
     select CR_PolygonsFromLines('test_lines','test_lines_poly');
 
 test_lines - table with source data
+
 test_lines_poly - created table with polygons
 
 Included some sample data for tests.
